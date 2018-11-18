@@ -31,7 +31,6 @@ public class Widget {
 	 */
 	public Widget setEnabled(boolean enabled) {
 		this.enabled = enabled;
-        //comment
 		return this;
 	}
 }

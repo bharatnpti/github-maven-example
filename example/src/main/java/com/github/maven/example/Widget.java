@@ -28,7 +28,7 @@ public class Widget {
 	 * 
 	 * @param enabled
 	 * @return this widget
-     comment
+     comment2
 	 */
 	public Widget setEnabled(boolean enabled) {
 		this.enabled = enabled;
